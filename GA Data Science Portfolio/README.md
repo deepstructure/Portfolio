@@ -1,7 +1,4 @@
-# Portfolio
-Showcasing ongoing and past Data Science and Programming Projects
-
-    General Assembly Data Science Projects
+# General Assembly Data Science Projects
 
 We had a weekly project assignment for the first 7 weeks of the course. These projects exercised and tested our understanding of machine learning, statistics, Python and the practical application of data science methodologies to real world problems.
 
