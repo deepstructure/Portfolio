@@ -1,0 +1,101 @@
+City,Quantity,Mean_RV_price,Median_RV_price,URL
+New York,6,17831.666666666668,17500.0,http://newyork.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Los Angeles,7,23570.714285714286,12000.0,http://losangeles.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Chicago,21,20530.857142857141,14999.0,http://chicago.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Houston,1,98000.0,98000.0,http://houston.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Philadelphia,6,25782.166666666668,21447.5,http://philadelphia.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Phoenix,8,30049.375,18000.0,http://phoenix.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+San Antonio,2,31000.0,31000.0,http://sanantonio.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+San Diego,6,23500.0,13900.0,http://sandiego.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Dallas,20,29026.200000000001,20840.0,http://dallas.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+San Jose,nan,nan,nan,
+Austin,2,31000.0,31000.0,http://austin.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Jacksonville,8,57885.0,78995.0,http://onslow.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+San Francisco,31,41095.0,29900.0,http://sfbay.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Indianapolis,5,22200.0,18200.0,http://indianapolis.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Columbus,9,144199.55555555556,26500.0,http://columbusga.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Fort Worth,20,29026.200000000001,20840.0,http://dallas.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Charlotte,4,45122.5,45997.5,http://charlottesville.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Seattle,24,25943.833333333332,25766.0,http://seattle.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Denver,11,32229.909090909092,24966.0,http://denver.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+El Paso,5,35310.0,27000.0,http://elpaso.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Detroit,8,19092.875,24000.0,http://detroit.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Washington,3,17920.666666666668,19900.0,http://washingtondc.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Boston,0,nan,nan,http://boston.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Memphis,33,18681.81818181818,18500.0,http://memphis.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Nashville,10,30569.5,22200.0,http://nashville.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Portland,56,25453.75,21724.5,http://portland.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Oklahoma City,28,24823.75,19978.5,http://oklahomacity.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Las Vegas,13,20715.0,12000.0,http://lasvegas.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Baltimore,2,22131.0,22131.0,http://baltimore.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Louisville,14,34450.0,36400.0,http://louisville.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Milwaukee,15,24220.266666666666,18495.0,http://milwaukee.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Albuquerque,5,39259.0,27000.0,http://albuquerque.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Tucson,8,30049.375,18000.0,http://tucson.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Fresno,8,24995.625,27495.0,http://fresno.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Sacramento,33,40119.242424242424,29900.0,http://sacramento.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Kansas City,9,26259.111111111109,17980.0,http://kansascity.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Long Beach,nan,nan,nan,
+Mesa,nan,nan,nan,
+Atlanta,10,134069.60000000001,26700.0,http://atlanta.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Colorado Springs,11,32229.909090909092,24966.0,http://cosprings.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Virginia Beach,nan,nan,nan,
+Raleigh,6,40510.166666666664,23983.0,http://raleigh.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Omaha,7,16156.428571428571,10000.0,http://omaha.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Miami,0,nan,nan,http://miami.craigslist.org/mdc/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Oakland,nan,nan,nan,
+Minneapolis,11,13671.636363636364,11000.0,http://minneapolis.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Tulsa,32,24401.34375,19894.0,http://tulsa.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Wichita,27,26744.185185185186,19980.0,http://wichitafalls.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+New Orleans,14,35713.928571428572,28400.0,http://neworleans.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Arlington,nan,nan,nan,
+Cleveland,10,20279.0,12995.0,http://cleveland.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Bakersfield,4,25496.25,29995.0,http://bakersfield.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Tampa,100,73102.449999999997,55000.0,http://tampa.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Aurora,nan,nan,nan,
+Honolulu,nan,nan,nan,
+Anaheim,nan,nan,nan,
+Santa Ana,nan,nan,nan,
+Corpus Christi,0,nan,nan,http://corpuschristi.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Riverside,nan,nan,nan,
+St. Louis,nan,nan,nan,
+Lexington,15,27853.333333333332,19900.0,http://lexington.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Stockton,32,40591.875,29900.0,http://stockton.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Pittsburgh,100,17006.200000000001,15995.0,http://pittsburgh.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Saint Paul,nan,nan,nan,
+Anchorage,0,nan,nan,http://anchorage.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Cincinnati,11,32618.18181818182,29900.0,http://cincinnati.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Henderson,nan,nan,nan,
+Greensboro,5,43971.199999999997,25000.0,http://greensboro.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Plano,nan,nan,nan,
+Newark,nan,nan,nan,
+Toledo,8,19092.875,24000.0,http://toledo.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Lincoln,3,10000.0,10000.0,http://lincoln.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Orlando,100,85381.399999999994,95000.0,http://orlando.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Chula Vista,nan,nan,nan,
+Jersey City,nan,nan,nan,
+Chandler,nan,nan,nan,
+Fort Wayne,9,11416.0,8350.0,http://fortwayne.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Buffalo,3,11496.666666666666,10995.0,http://buffalo.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Durham,6,40510.166666666664,23983.0,http://raleigh.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+St. Petersburg,nan,nan,nan,
+Irvine,nan,nan,nan,
+Laredo,0,nan,nan,http://laredo.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Lubbock,2,26240.0,26240.0,http://lubbock.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Madison,16,23519.0,17995.0,http://madison.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Gilbert,nan,nan,nan,
+Norfolk,nan,nan,nan,
+Reno,29,40860.172413793101,29900.0,http://reno.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Winston–Salem,nan,nan,nan,
+Glendale,nan,nan,nan,
+Hialeah,nan,nan,nan,
+Garland,nan,nan,nan,
+Scottsdale,nan,nan,nan,
+Irving,nan,nan,nan,
+Chesapeake,nan,nan,nan,
+North Las Vegas,nan,nan,nan,
+Fremont,nan,nan,nan,
+Baton Rouge,11,38681.818181818184,29900.0,http://batonrouge.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Richmond,8,23725.0,19000.0,http://richmondin.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+Boise,3,45316.333333333336,44950.0,http://boise.craigslist.org/search/sss?query=rv+gulfstream&sort=rel&min_price=7000
+San Bernardino,nan,nan,nan,
